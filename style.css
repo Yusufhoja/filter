@@ -1,0 +1,20 @@
+body{
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+    color: rgb(92, 179, 6);
+}
+button{
+    background: fixed;
+    width: 200px;
+    height: 30px;
+    color: powderblue;
+    border-radius: 30px;
+    border-color: powderblue;
+}
+input{
+    margin-top: 200px;
+}
